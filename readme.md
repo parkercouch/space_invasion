@@ -4,7 +4,7 @@ Phaser is a JavaScript library that makes using HTML5 canvas-based games easy to
 
 ## What's included?
 
-* HTML layout is done
+* HTML layout is done (just add game div!)
 * Scripts/links to bootstrap, phaser, and sweet alerts
 * Audio assets
 * Images, Sprites, and Spritesheets
@@ -19,6 +19,6 @@ JavaScript. You gotta write that.
 * Use of physics library
 * Built-in collision detection
 * Object-oriented programming
-* Using LocalStorage
+* Using localStorage
 * Not having to deal directly with canvas/redrawing
 * Fun?
