@@ -1,4 +1,4 @@
-# Space Invasion (But not really)
+# Space Invasion (Shoot 'em up Space Game)
 Just playing around with Phaser.io
 
 The game currently has lots of enemies and you can shoot them.
